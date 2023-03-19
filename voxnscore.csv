@@ -1,0 +1,985 @@
+Heads or tails?,Kopf oder Zahl?,0,0,0,0
+YIELD,Vorfahrt gewähren!,0,1,0,1
+aardvark,Erdferkel,0,1,1,0
+abbreviation,Abkürzung,0,1,1,0
+abundance,Überfluss,Fülle,0,0,0,0
+abyss of despair,Abgrund der Verzweiflung,0,0,0,0
+acceleration,Beschleunigung,0,0,0,0
+acknowledgement,Bestätigung,Anerkennung,Danksagung,0,0,0,0
+ambiguity,Mehrdeutigkeit,Unklarheit,0,0,0,0
+amenable,zugänglich,offen,0,1,0,1
+ancestor,Vorfahre,Ahne,0,0,0,0
+annoyed,verärgert,0,0,0,0
+apparent,offensichtlich,anscheinend,offenbar,340,0,0,0
+appropriate,angemessen,dazugehörig,0,0,0,0
+aptly,treffend,passend,0,0,0,0
+arbitrary,willkürlich,beliebig,0,0,0,0
+arcane,geheimnisvoll,obskur,0,0,0,0
+arguably,wohl,unter Umständen,0,0,0,0
+aside,Nebenbemerkung,0,0,0,0
+assembly,Fertigung,Versammlung,Bausatz,Einbau,0,1,1,0
+assertion,Behauptung,Aussage,0,0,0,0
+assignment,Aufgabe,Auftrag,0,0,0,0
+assumption,Annahme,Vermutung,0,0,0,0
+asterisk,Sternchen,0,0,0,0
+at least,jedenfalls,mindestens,0,0,0,0
+attempt,Versuch,Bemühen,Ansatz,0,0,0,0
+beat,Schlag,Rhythmus,0,1,1,0
+bogged down,festgefahren,steckengeblieben,0,0,0,0
+bogus,betrügerisch,gefälscht,0,0,0,0
+bourne,Grenze,0,0,0,0
+by design,absichtlich,0,0,0,0
+chances are that,aller Wahrscheinlichkeit nach,0,0,0,0
+chart,Tabelle,Grafik,Diagramm,0,0,0,0
+chock-full,gerammelt voll,0,0,0,0
+chord,Akkord,Sehne,Saite,Kreissehne,0,0,0,0
+circumference,Umfang,Kreisumfang,0,0,0,0
+clumsy,ungeschickt,tollpatschig,0,0,0,0
+colon,Doppelpunkt,0,1,1,0
+compelling,zwingend,verlockend,unwiderstehlich,0,0,0,0
+complaint,Beschwerde,0,0,0,0
+compound,zusammengesetzt,kompliziert,0,0,0,0
+compound statement,Verbundanweisung,0,0,0,0
+comprehensive,umfassend,0,0,0,0
+computation,Berechnung,0,0,0,0
+concatenation,Verkettung,Verknüpfung,0,0,0,0
+concise,knapp,prägnant,kurzgefasst,0,0,0,0
+conditional,abhängig,bedingt,0,0,0,0
+conditional statement,bedingte Anweisung,0,0,0,0
+consecutive,aufeinanderfolgend,fortlaufend,folgerichtig,0,0,0,0
+contribution,Beitrag,Mitwirkung,0,1,0,1
+convenient,geeignet,0,0,0,0
+conversely,umgekehrt,im Gegenzug,0,0,0,0
+crank,Kurbel,Spinner,Sonderling,0,0,0,0
+cumbersome,schwerfällig,umständlich,0,0,0,0
+currency,Währung,0,0,0,0
+curriculum,Lehrplan,Stundenplan,0,1,1,0
+curse,Fluch,Übel,0,0,0,0
+cursor,Eingabezeiger,Positionsanzeiger,0,1,0,1
+dang,verdammt,verflixt,0,0,0,0
+deliberate,absichtlich,vorsätzlich,0,1,0,1
+delimiter,Trennzeichen,Abgrenzung,0,0,0,0
+dense,dicht,dumm,0,0,0,0
+deprecated,veraltet,missbilligt,0,1,0,1
+despondent,mutlos,niedergeschlagen,0,2,0,2
+determinism,Vorherbestimmtheit,0,0,0,0
+detour,Umleitung,0,0,0,0
+digit,Ziffer,0,0,0,0
+dingy,schäbig,schmutzig,0,0,0,0
+distinction,Unterscheidung,Unterschied,Abgrenzung,0,0,0,0
+door,Tür,Pforte,0,0,0,0
+draw,Gleichstand,Unentschieden,0,0,0,0
+drawback,Nachteil,Kehrseite,0,1,0,1
+dread,Furcht,Grauen,0,0,0,0
+dumbfounded,sprachlos,verblüfft,0,0,0,0
+elaborate,durchdacht,aufwendig,0,0,0,0
+embarrassed,verlegen,beschämt,0,1,0,1
+emblem,Wappen,Wahrzeichen,0,0,0,0
+enrollment,Einschreibung,Immatrikulation,0,0,0,0
+entire,vollständig,ganz,0,0,0,0
+entirely,völlig,gänzlich,vollkommen,0,1,0,1
+errata,Druckfehler,Fehlerverzeichnis,0,1,0,1
+extent,Ausmaß,Umfang,0,1,0,1
+extraneous,irrelevant,unerheblich,0,0,0,0
+exuberant,ausgelassen,überschwänglich,0,1,0,1
+factorial,Fakultät,0,0,0,0
+feasible,machbar,realisierbar,0,0,0,0
+finger clicking,Fingerschnipsen,0,0,0,0
+flavor,Geschmack,Duft,Variante,0,1,0,1
+flawed,fehlerhaft,mangelhaft,0,0,0,0
+fledgling,frischgebacken,jung,unerfahren,0,0,0,0
+flipping fair coins,Münzen werfen,0,0,0,0
+for brevity,der Kürze halber,0,0,0,0
+for instance,etwa,beipielhalber,0,0,0,0
+forest,Wald,Forst,0,0,0,0
+fragrand,duftend,0,0,0,0
+fringe,Randgebiet,Umrandung,0,1,0,1
+from scratch,aus dem Nichts,ganz von Anfang an,ganz von Vorne,0,0,0,0
+frowned upon,verpönt,0,0,0,0
+glistening,glitzernd,funkelnd,0,0,0,0
+handy,praktisch,nützlich,0,0,0,0
+haunted,verfolgt,heimgesucht,0,1,0,1
+hence,daher,deshalb,0,0,0,0
+hog,Schwein,Hausschwein,0,0,0,0
+host,Gastgeber,große Anzahl,0,0,0,0
+hump,Buckel,Auswuchs,0,0,0,0
+hump sb.,jmd. bumsen,jmd. vögeln,0,0,0,0
+impeccable,einwandfrei,makellos,0,0,0,0
+implementation,Durchführung,Umsetzung,0,0,0,0
+implicit,stillschweigend,inbegriffen,indirekt,0,0,0,0
+in this respect,diesbezüglich,insofern,0,0,0,0
+inadvertent,unbeabsichtigt,versehentlich,0,0,0,0
+inconvenient,unangenehm,umständlich,0,0,0,0
+incredulous,ungläubig,0,0,0,0
+injury,Verletzung,Beschädigung,0,0,0,0
+insatiable,unersättlich,unstillbar,0,0,0,0
+interface,Schnittstelle,0,0,0,0
+interspersed,durchsetzt,eingestreut,0,0,0,0
+intimidating,einschüchternd,bedrohend,0,0,0,0
+intricate,schwierig,kompliziert,verschachtelt,0,0,0,0
+intrinsic,wesentlich,innewohnend,0,0,0,0
+invocation,Aufruf,Beschwörung,0,0,0,0
+iteration,Wiederholung,Durchlauf,0,0,0,0
+justification,Rechtfertigung,Justierung,Blocksatz,0,0,0,0
+juxtaposition,Gegenüberstellung,Nebeneinander,0,0,0,0
+key,Schlüssel,Taste,0,0,0,0
+label,Bezeichnung,Etikett,Marke,0,1,0,1
+lapse,Enrgleisung,Fehler,Versehen,0,0,0,0
+leap,Sprung,0,0,0,0
+leap of faith,Vertrauensvorschuss,0,0,0,0
+leapyear,Schaltjahr,0,0,0,0
+literal (error),Schreibfehler,Buchstabensymbol,0,0,0,0
+maintainability,Wartbarkeit,Instandhaltbarkeit,0,0,0,0
+malicious,bösartig,böswillig,schädlich,0,0,0,0
+maverick,eigenwillig,0,0,0,0
+means,Mittel,Möglichkeiten,0,0,0,0
+means to an end,Mittel zum Zweck,0,0,0,0
+molasses,Sirup,Melasse,0,0,0,0
+momentum,Impuls,Schwung,Wucht,0,0,0,0
+myopic,kurzsichtig,0,0,0,0
+neat,gepflegt,ordentlich,geschickt,0,1,1,0
+nested,verschachtelt,0,0,0,0
+newt,Molch,0,0,0,0
+nifty,raffiniert,schick,elegant,0,0,0,0
+node,Knoten,Knotenpunkt,0,0,0,0
+notion,Vorstellung,Gedanke,Ahnung,0,1,0,1
+odd,seltsam,ulkig,ungerade,0,0,0,0
+paned,verglast,0,0,0,0
+paned window,gekacheltes Fenster,0,0,0,0
+parentheses,Klammern,in Klammern,0,0,0,0
+patch,Fleck,Pflaster,Flicken,0,0,0,0
+peer,Gleichaltriger,Ebenbürtiger,Fachkollege,0,0,0,0
+penalty,Strafe,Nachteil,0,1,1,0
+pending,ausstehend,bevorstehend,unerledigt,0,0,0,0
+persistence,Ausdauer,Beständigkeit,0,1,1,0
+pesky,lästig,nervtötend,ärgerlich,0,0,0,0
+pet peeve,Hauptärgernis,Lieblingsärgernis,0,1,1,0
+petered-out,versandet,0,0,0,0
+pitfall,Falle,Fallstrick,0,0,0,0
+portion,Anteil,Portion,0,0,0,0
+potion,Zaubertrank,Arzneitrank,0,0,0,0
+power of sth.,Potenz von etw.,0,0,0,0
+precedence,Vorrang,Priorität,0,0,0,0
+prediction,Prognose,Vorhersage,0,1,1,0
+prevalent,vorherrschend,verbreitet,0,0,0,0
+prior to,vor,früher als,0,0,0,0
+proficiancy,Fertigkeit,Befähigung,0,0,0,0
+prompt,Aufforderung,Eingabeaufforderung,0,0,0,0
+property,Egentum,Besitz,0,0,0,0
+purpose,Absicht,Zweck,Bestimmung,0,0,0,0
+put another way,anders ausgedrückt,0,0,0,0
+query,Abfrage,Anfrage,Rückfrage,0,0,0,0
+quirk,Eigenart,Laune,0,0,0,0
+quotation,Angebot,Kostenvoranschlag,0,0,0,0
+quotation marks,Anführungszeichen,0,0,0,0
+quote,Angebot,Spruch,Zitat,0,0,0,0
+ratio,Verhältnis,Anzahl,0,0,0,0
+redundancy,Überflüssigkeit,Weitschweifigkeit,0,0,0,0
+refactoring,Überarbeiten,Refaktorierung,0,0,0,0
+refrain from sth.,etw. bleiben lassen,unterlassen,0,0,0,0
+reluctant,abgeneigt,widerwillig,0,0,0,0
+remainder,Rest,Restbetrag,Restbestand,0,0,0,0
+repository,Aufbewahrungsort,Behälter,0,0,0,0
+respectively,beziehungsweise,jeweils,0,1,0,1
+retention,Aufbewahrung,Speicherung,Gedächtnis,0,0,0,0
+retrieval,Abruf,Wiederherstellung,0,0,0,0
+ridge,Erhöhung,Gebigskamm,0,0,0,0
+rightmost,rechteste,0,0,0,0
+scaffolding,Gerüst,0,0,0,0
+scope,Geltungsbereich,0,0,0,0
+sensuous,sinnlich,0,0,0,0
+shade,Schatten,Farbton,Schattierung,Rolladen,0,0,0,0
+shallow,oberflächlich,seicht,0,0,0,0
+sheen,Glanz,Schimmer,0,0,0,0
+shortsighted,kurzsichtig,0,1,1,0
+slack,locker,lose,lässig,0,0,0,0
+slate,Schiefer,Schiefertafel,schiefrig,0,0,0,0
+sophisticated,ausgeklügelt,anspruchsvoll,komplex,hochentwickelt,0,0,0,0
+sparse,dürftig,spärlich,0,1,1,0
+sphere,Kugel,Bereich,0,1,0,1
+spouse,Ehepartner,0,0,0,0
+spreadsheet,Tabelle,Tabellenkalkulation,0,1,1,0
+state diagram,Zustandsdiagramm,0,1,0,1
+statement,Anweisung,Aussage,0,1,0,1
+strife,Konflikt,Streit,Zank,0,0,0,0
+stumped,ratlos,verblüfft,0,2,0,2
+sublime,außergewöhnlich,grandios,0,0,0,0
+subsequent,anschliessend,nachfolgend,0,0,0,0
+subtleties,Feinheiten,0,1,0,1
+successive,aufeinanderfolgend,nacheinander,0,0,0,0
+succinct,prägnant,knapp,0,0,0,0
+supplement,Ergänzung,Beilage,0,0,0,0
+takeaway,Imbiss,Kernpunkt,0,0,0,0
+tally,Strichliste,Zähler,Anzahl,0,0,0,0
+tantalizing,aufreizend,verlockend,0,0,0,0
+task,Aufgabe,Tätigkeit,0,0,0,0
+tedious,langweilig,mühsam,ermüdend,0,0,0,0
+tempting,verlockend,0,1,1,0
+terse,knapp,prägnant,0,0,0,0
+thorough,gründlich,sorgfältig,0,0,0,0
+though,jedoch,obwohl,aber,0,0,0,0
+tidbit,Leckerbissen,0,1,1,0
+to abridge,abkürzen,kürzen,verkürzen,0,0,0,0
+to access,abrufen,betreten,einsteigen,0,0,0,0
+to accommodate sb.,jmd. unterbringen,0,0,0,0
+to accommodate sth.,etw. anpassen,0,2,0,2
+to accomplish,vollenden,erreichen,0,0,0,0
+to acquire,erwerben,erlangen,beschaffen,0,0,0,0
+to adhere,festhalten,haften an,0,0,0,0
+to apply,anfragen,anwenden,zutreffen,gelten,1,0,0,0
+to approach,annähern,herangehen,etw. angehen,0,0,0,0
+to assign,zuordnen,zuweisen,beauftragen,0,0,0,0
+to associate,verknüpfen,zuordnen,angehören,0,0,0,0
+to assume,annehmen,voraussetzen,unterstellen,0,0,0,0
+to bald,kahl werden,0,0,0,0
+to carve out,gestalten,aushöhlen,Zeit schinden,0,0,0,0
+to christen sb.,jmd. taufen,0,0,0,0
+to christen sth.,etw. einweihen,0,0,0,0
+to clutter up,anfüllen,vollstopfen,0,0,0,0
+to conclude,folgern,0,0,0,0
+to contrive,arrangieren,entwerfen,ausklügeln,0,0,0,0
+to curdle,gerinnen,stocken,0,0,0,0
+to defer,verschieben,aufschieben,0,0,0,0
+to delve,forschen,graben,sich senken,0,0,0,0
+to deploy (sb.),anwenden,einsetzen (jmd.),0,1,0,1
+to distinguish,unterscheiden,0,0,0,0
+to dole out,austeilen,ausspucken,rationieren,0,0,0,0
+to dwell,verweilen,wohnen,bleiben,0,0,0,0
+to elapse,verstreichen,vergehen,0,0,0,0
+to employ,anstellen,beschäftigen,verwenden,einsetzen,304,0,0,0
+to emulate,nachahmen,nacheifern,wetteifern,0,0,0,0
+to engage in sth.,etw. betreiben,0,0,0,0
+to evaluate,auswerten,0,0,0,0
+to expire,auslaufen,enden,ablaufen,sterben,0,0,0,0
+to fare,fahren,reisen,gehen,0,0,0,0
+to govern,regieren,steuern,0,2,2,0
+to groove sth.,etw. einkerben,etw. nuten,etw. perfektionieren,0,0,0,0
+to hone,verbessern,verfeinern,0,0,0,0
+to impose,auferlegen,anordnen,0,0,0,0
+to improve,verbessern,0,0,0,0
+to incur sth.,etw. erleiden,in etw. geraten,sich etw. einhandeln,0,0,0,0
+to indent,einrücken,0,0,0,0
+to ingrain,eigiessen,tief verwurzeln,0,0,0,0
+to invoke,aufrufen,heraufbeschwören,0,0,0,0
+to knnecap sb.,jmd. in die Kniescheibe schiessen,0,0,0,0
+to lather,schäumen,einseifen,0,0,0,0
+to maintain,aufrechterhalten,verwalten,pflegen,0,0,0,0
+to map,abbilden,0,0,0,0
+to match,zuordnen,zusammenpassen,vergleichen,0,0,0,0
+to merge,verbinden,verschmelzen,0,0,0,0
+to mitigate,mildern,entschärfen,0,0,0,0
+to nag,nörgeln,meckern,0,0,0,0
+to obtain,erhalten,bekommen,erlangen,0,0,0,0
+to omit,weglassen,0,0,0,0
+to override sth.,etw. überschreiben,etw. aufheben,etw. ausser Kraft setzen,0,0,0,0
+to parse,analysieren,zerlegen,0,0,0,0
+to pass,bestehen,vorbeigehen,weitergeben,0,0,0,0
+to perform,aufführen,durchführen,vorführen,0,0,0,0
+to pertain,zutreffen,gelten,0,1,0,1
+to phase out,ausmustern,abwickeln,0,0,0,0
+to poke,stochern,stoßen,ficken,0,1,1,0
+to prevent,verhindern,vermeiden,0,0,0,0
+to protrude,herausragen,hervorstehen,0,0,0,0
+to provide,versorgen,anbieten,bereitstellen,0,0,0,0
+to quadruple,vervierfachen,0,0,0,0
+to rave,schwärmen,toben,fantasieren,0,0,0,0
+to render,erbringen,machen,berechnen und ausgeben,0,0,0,0
+to reply,antworten,erwidern,entgegnen,0,0,0,0
+to research,erforschen,Forschung,0,0,0,0
+to retain,behalten,bewahren,0,0,0,0
+to retreat,nachgeben,zurückweichen,0,1,0,1
+to retrieve,zurückholen,wiederauffinden,0,0,0,0
+to reveal,aufzeigen,offenbaren,0,0,0,0
+to revert,zurückkehren,umkehren,0,0,0,0
+to ridge,zerfurchen,furchen,0,0,0,0
+to rinse,abspülen,ausspülen,spülen,0,0,0,0
+to ruminate,grübeln,nachsinnen,0,0,0,0
+to run afoul of sb./ sth.,mit jmd./ etw. in Konflikt geraten,0,1,0,1
+to scatter,streuen,verstreuen,0,0,0,0
+to skim sth.,etw. querlesen,schälen,0,0,0,0
+to skyrocket,emporschnellen,sprunghaft ansteigen,0,0,0,0
+to spruce sth. up,etw. auf Vordermann bringen,etw. herausputzen,0,0,0,0
+to stay current,sich auf dem Laufenden halten,0,0,0,0
+to stipple,tüpfeln,0,0,0,0
+to surface,auftauchen,hochkommen,zum Vorschein kommen,0,1,1,0
+to take license to do sth.,sich die Freiheit nehmen etw. zu tun,0,0,0,0
+to thrive,gedeihen,florieren,0,0,0,0
+to toss,hochwerfen,schleudern,0,0,0,0
+to trace back,rückverfolgen,rekonstruieren,0,0,0,0
+to tweak,optimieren,justieren,0,1,0,1
+to undergo sth.,etw. durchmachen,0,0,0,0
+to value,schätzen,den Wert schätzen,0,0,0,0
+to violate,missachten,verletzen,vergewaltigen,0,1,1,0
+to void,aufheben,entwerten,0,0,0,0
+to wane,nachlassen,schwinden,0,0,0,0
+to yank,reißen,herausziehen,0,0,0,0
+to yield sth.,hervorbringen,liefern,0,1,0,1
+token,Merkmal,Zeichen,0,0,0,0
+tradeoff,Kompromiss,Tausch,0,0,0,0
+tremendous,gewaltig,enorm,0,0,0,0
+unladen,unbeladen,0,0,0,0
+unless,außer,ausgenommen,es sei denn,0,1,1,0
+utilities,Nebenkosten,Betriebsmedien,Betriebsmittel,0,0,0,0
+valley of despair,Tal der Verzweiflung,0,0,0,0
+vendor,Lieferant,0,1,0,1
+vengeance,Rache,Vergeltung,0,0,0,0
+verbose,wortreich,langatmig,0,0,0,0
+versatile,vielseitig,beweglich,0,0,0,0
+vetted,überprüft,0,0,0,0
+vorpal,tödlich,0,0,0,0
+wattle,Flechtwerk,0,0,0,0
+whence,woher,woraus,0,0,0,0
+whimsical,skurril,launisch,wunderlich,0,0,0,0
+widget,Gerät,Ding,Steuerelement,0,0,0,0
+wildcard,Platzhalter,Stellvertretersymbol,0,0,0,0
+gorgeous,umwerfend,wunderschön,0,0,0,0
+porcupine,Stachelschwein,0,0,0,0
+parsley,Petersilie,0,0,0,0
+to submit sth.,etw. einreichen,etw. vorlegen,0,1,0,1
+cramp,Krampf,Klammer,Verkrampfung,0,0,0,0
+to cramp,beengen,einklammern,verkrampfen,0,0,0,0
+itch,Juckreiz,Lust,Krätze,0,0,0,0
+chatter,Geplapper,Gequatsche,Gerede,0,0,0,0
+to chatter,schwatzen,schnattern,plaudern,0,0,0,0
+to fathom,ergründen,begreifen,ausloten,0,0,0,0
+to ponder,nachdenken,grübeln,überlegen,0,0,0,0
+embarrassment,Verlegenheit,Peinlichkeit,0,0,0,0
+tinge,Färbung,Tönung,Hauch,0,0,0,0
+to precede,vorangehen,vorausgehen,0,0,0,0
+blag,Bluff,0,0,0,0
+to blag,schnorren,mogeln,bluffen,0,0,0,0
+to store,ablegen,abspeichern,einlagern,0,0,0,0
+error,Fehler,Irrtum,Abweichung,Verirrung,0,0,0,0
+disaster,Katastrophe,Unglück,Desaster,0,2,1,1
+crucial,entscheidend,wesentlich,0,0,0,0
+overhead,Fixkosten,Geschäftskosten,Mehraufwand,Verwaltungsdaten,0,0,0,0
+to resolve,lösen,beschliessen,auflösen,aufklären,klären,beilegen,0,0,0,0
+shakedown,Erpressung,0,1,0,1
+litigation,Rechtsstreit,Prozess,Gerichtsverhandlung,0,0,0,0
+credential,Qualifikation,Brechtigungsnachweis,Anmeldeinformation,Presseausweis,0,0,0,0
+blackberry,Brombeere,10,0,0,0
+eloquent,eloquent,8,0,0,0
+cat,Katze,11,1,1,0
+mouse,Maus,11,0,0,0
+dog,Hund,18,1,1,0
+to convey,übermitteln,befördern,versenden,liefern,bringen,31,0,0,0
+to snorkel,schnorcheln,33,0,0,0
+entry,Eintrag,Einfahrt,Zugang,Eintritt,42,0,0,0
+to assemble,zusammenstellen,zusammenfügen,montieren,zusammensetzen,42,0,0,0
+to emerge,aufstehen,entstehen,erscheinen,46,0,0,0
+to sift,sieben,durchsieben,überprüfen,sichten,46,1,0,1
+odds,Chancen,Gewinnchancen,Wahrscheinlichkeiten,Restposten,46,0,0,0
+beyond recognition,bis zur Unkenntlichkeit,unerkennbar,unkenntlich,46,1,0,1
+beyond,darüber hinaus,jenseits,drüben,oberhalb,46,0,0,0
+recognition,Anerkennung,Bestätigung,Identifizierung,Wiedererkennen,46,0,0,0
+regurgitated,erbrochen,46,0,0,0
+pointy-headed,oberschlau,superschlau,46,0,0,0
+to rant,schimpfen,geifern,herumzetern,46,1,0,1
+to reel in,einfangen,an Land ziehen,einholen,46,0,0,0
+sham,Schein-,fingiert,vorgetäuscht,imitiert,46,0,0,0
+to traipse,bummeln,latschen,46,0,0,0
+to jot down,hinwerfen,fix notieren,schnell hinschreiben,schnell notieren,46,0,0,0
+daunting,bängstigend,abschreckend,einschüchternd,entmutigend,46,0,0,0
+literacy,Bildung,Alphabetisierung,Belesenheit,Gebildetsein,46,0,0,0
+impostor,Hochstapler,Betrüger,Blender,Schwindler,46,1,0,1
+mandatory,verpflichtend,verbindlich,obligatorisch,vorgeschrieben,71,0,0,0
+full-fledged,ausgewachsen,flügge,vollentwickelt,vollwertig,71,0,0,0
+contributor,Mitarbeiter,Beitragender,Mitwirkender,Spender,71,0,0,0
+to strive,anstreben,erstreben,streben,bestreben,71,0,0,0
+to cite,zitieren,anführen,angeben,aufführen,71,0,0,0
+to bolt,flüchten,davonstürzen,ausreissen,71,0,0,0
+to assert,behaupten,durchsetzen,beteuern,bestätigen,82,1,0,1
+caveat,Vorbehalt,Einwand,82,0,0,0
+Brace yourself!,Nimm dich zusammen!,Wappne dich!,Mach dich gefasst!,82,0,0,0
+adjacent,benachbart,angrenzend,anliegend,82,0,0,0
+leeway,Spielraum,82,0,0,0
+merely,lediglich,bloß,nur,103,1,0,1
+to mangle,zerfleischen,zerfetzen,verstümmeln,radebrechen,103,0,0,0
+to cause,auslösen,herbeiführen,veranlassen,103,0,0,0
+to scathe,verletzen,heftig angreifen,103,0,0,0
+to discourage,abhalten,abschrecken,demotivieren,entmutigen,103,0,0,0
+superseded,überholt,ersetzt,aufgehoben,103,0,0,0
+to grok,begreifen,verstehen,schnallen,103,0,0,0
+expense,Kosten,Ausgabe,Aufwand,112,0,0,0
+legible,leserlich,lesbar,ablesbar,119,0,0,0
+unlikely,unwahrscheinlich,merkwürig,unglaubwürdig,119,1,1,0
+asset,Vermögen,Gewinn,Vorteil,119,0,0,0
+gradient,Steigung,Gefälle,Farbverlauf,119,1,0,1
+stroke,Schlaganfall,Schlag,Hieb,Strich,Takt,119,0,0,0
+swag,Beute,Diebesbeute,Girlande,Koffer,Bettrolle,Werbegeschenk,129,1,0,1
+to slug,schlagen,verdreschen,faulenzen,131,0,0,0
+slug,Nacktschnecke,Faulenzer,Faulpelz,Kugel,131,0,0,0
+draft,Entwurf,Konzept,Luftzug,131,0,0,0
+to draft,entwerfen,verfassen,aufsetzen,131,0,0,0
+to preserve,erhalten,einkochen,bewahren,131,1,1,0
+ubiquity,Allgegenwart,138,1,0,1
+ubiquitous,allgegenwärtig,omnipräsent,überall vorkommend,138,1,0,1
+to ease,lindern,erleichtern,abklingen,138,0,0,0
+to survey,begutachten,befragen,untersuchen,138,0,0,0
+to stall,verzögern,hinhalten,abwürgen,153,0,0,0
+hindsight,Rückschau,Nachsicht,Blick zurück,späte Einsicht,153,0,0,0
+cruft,nutzloser Code,überflüssiger Programmcode,156,0,0,0
+stub,Stumpf,Stummel,Kontrollabschnitt,Abschnitt,156,0,0,0
+to acquaint,informieren,in Kenntnis setzten,benachrichtigen,156,0,0,0
+thus,dadurch,folglich,165,0,0,0
+unprecedented,beispiellos,ohne gleichen,unerhört,165,0,0,0
+incident,Vorfall,Ereignis,165,0,0,0
+distraught,verzweifelt,aufgelöst,vertört,beunruhigt,bestürzt,165,0,0,0
+generic,allgemein,typisch,exemplarisch,165,0,0,0
+to throttle,drosseln,erdrosseln,abschnüren,unterdrücken,165,0,0,0
+throttle,Gashebel,Gaspedal,165,1,1,0
+full throttle,Vollgas,volle Pulle,165,0,0,0
+to evolve,entwickeln,herausbilden,entfalten,165,0,0,0
+forgery,Fälschung,Urkundenfälschung,Nachahmung,165,0,0,0
+to amend,abändern,berichtigen,ergänzen,165,0,0,0
+chore,Hausarbeit,Routinearbeit,lästige Pflicht,181,0,0,0
+opaque,dunkel,undurchsichtig,undurchlässig,181,0,0,0
+to harness,nutzen,zügeln,einspannen,nutzbar machen,186,0,0,0
+astute,scharfsinnig,clever,gerissen,aufgeweckt,listig,195,0,0,0
+to muddle,vermasseln,pfuschen,verwirren,195,0,0,0
+wharf,Kai,Anlegeplatz,Landungsplatz,Hafenkai,201,0,0,0
+corduroy,Kord,Cord,201,0,0,0
+suffice it to say that,der Hinweis möge genügen dass,201,0,0,0
+enticing,verlockend,verführerisch,206,0,0,0
+to tackle,anpacken,angehen,lösen,206,0,0,0
+notch,Kerbe,Einschnitt,Stufe,206,1,0,1
+related,verbunden,verwandt,zugehörig,ähnlich,206,0,0,0
+assistive,unterstützend,assistiv,206,0,0,0
+impaired,beeinträchtigt,behindert,gemindert,geschädigt,gestört,206,0,0,0
+to incorporate,einarbeiten,aufnehmen,integrieren,eingliedern,einbinden,206,0,0,0
+bane,Fluch,Ruin,Verderben,206,0,0,0
+to utilize,anwenden,nutzen,verwenden,206,1,0,1
+resemblance,Ähnlichkeit,206,0,0,0
+endeavor,Bestreben,Unterfangen,Bemühen,Anstrengung,Aufgabe,206,0,0,0
+to leverage,hebeln,zum Durchbruch verhelfen,206,0,0,0
+to instill,einflößen,einträufeln,instillieren,206,1,0,1
+to vouch,verbürgen,sich verbürgen,206,0,0,0
+carpenter,Zimmermann,Schreiner,Tischler,224,0,0,0
+likewise,ebenfalls,ebenso,gleichermaßen,ähnlich,224,1,1,0
+to bloat,aufblähen,aufblasen,aufdunsen,anschwellen lassen,224,0,0,0
+to fill sb. in on sth.,jmd. über etw. ins Bild setzten,224,0,0,0
+not for the faint of heart,nichts für schwache Nerven,224,0,0,0
+steeple,Kirchturm,Turm,Spitzturm,224,0,0,0
+steeplechase,Hürdenlauf,Hindernislauf,224,1,0,1
+remote,entfernt,fern,abgelegen,entlegen,abgeschieden,224,1,1,0
+ampersand,&,kaufmännisches Und,224,0,0,0
+hash,#,Raute,Rautenzeichen,Hackfleisch,Hasch,224,0,0,0
+grocery list,Einkaufszettel,Einkaufsliste,224,0,0,0
+to etch,ätzen,radieren,237,0,0,0
+to deviate,abweichen,abkommen,abknicken,ablenken,237,0,0,0
+picky,wählerisch,pingelig,heikel,ausgesucht,240,0,0,0
+cramped,eingeengt,verkrampft,240,0,0,0
+to pry,herumstöbern,schnüffeln,spitzeln,spähen,240,0,0,0
+conundrum,Rätsel,Scherzfrage,Vexierfrage,schwierige Frage,240,0,0,0
+to come in handy,sich als Nützlich erweisen,zugutekommen,gelegen kommen,zustatten kommen,240,0,0,0
+sought after,begehrt,nachgefragt,gesucht,240,0,0,0
+clunky,klobig,schwerfällig,247,0,0,0
+to augment,verstärken,erweitern,vergrößern,aufstocken,verbessern,249,1,0,1
+to delineate,beschreiben,darstellen,abgrenzen,schildern,250,0,0,0
+ternary,dreifach,trinär,ternär,dreizählig,250,0,0,0
+introspection,Selbstbeobachtung,Selbstwahrnehmung,Selbstprüfung,250,0,0,0
+to opt-in,beitreten,sich anmelden,(der Teilnahme) zustimmen,250,0,0,0
+default,vorgegeben,voreingestellt,250,0,0,0
+to require,benötigen,erfordern,fordern,brauchen,250,0,0,0
+constraint,Beschränkung,Einschränkung,Restriktion,Zwang,250,0,0,0
+yonder,jener,dort drüben,Ferne,264,1,0,1
+to abandon,abschaffen,stehenlassen,verlassen,aufgeben,264,0,0,0
+final vows,ewige Gelübde,268,1,0,1
+to vow,schwören,geloben,268,2,2,0
+to infer,schlussfolgern,folgern,annehmen,271,0,0,0
+imprint,Impressum,Abdruck,Prägung,Gepräge,271,1,1,0
+to divert,ablenken,umleiten,ableiten,abbiegen,ausweichen,275,0,0,0
+to cater,verpflegen,bewirten,Lebensmittel besorgen,Lebensmittel liefern,279,0,0,0
+latter,letzte,jünger,letzteres,letzgenannt,279,0,0,0
+kink,Macke,Tick,Knick,Knoten,Schrulle,282,0,0,0
+extensible,erweiterbar,ausdehnbar,erweiterungsfähig,289,0,0,0
+catch,Fang,Haken,Riegel,Beute,290,1,0,1
+to peruse,prüfen,genau durchsehen,durchgehen,unter die Lupe nehmen,292,1,0,1
+sibling,Geschwisterteil,Schwester,Bruder,Geschwister,294,1,1,0
+Brussel sprout,Rosenkohl,294,0,0,0
+eggplant,Aubergine,294,0,0,0
+vulnerability,Schwachstelle,Verwundbarkeit,Verletzlichkeit,294,0,0,0
+to tamper,fälschen,herumhantieren,sich einmischen,303,0,0,0
+to disburse,verauslagen,auszahlen,bezahlen,auslegen,303,0,0,0
+to consist,übereinstimmen,beruhen,304,0,0,0
+to resemble,ähneln,gleichen,ähnlich sein,304,0,0,0
+atomicity,Wertigkeit,Valenz,Atomigkeit,Atomizität,304,1,1,0
+collation,Vergleichung,Textvergleich,Imbiss,kleine Mahlzeit,304,0,0,0
+stark,krass,nüchtern,schlicht,schonungslos,gänzlich,309,0,0,0
+to compete,konkurrieren,wetteifern,rivalisieren,wettstreiten,sich messen,309,0,0,0
+to alert,alarmieren,aufmerksam machen,313,0,0,0
+alert,Alarm,Alarmbereitschaft,Warnruf,Benachrichtigung,313,0,0,0
+detrimental,schädlich,nachteilig,abträglich,verletzend,unzuträglich,313,0,0,0
+to devote,widmen,verwenden,318,0,0,0
+rogue,bösartig,skrupellos,gefährlich,boshaft,verbrecherisch,318,0,0,0
+to corrupt,korrumpieren,verderben,verballhornen,schlecht werden,zerstören,verschlechtern,325,0,0,0
+capable,fähig,kompetent,imstande,leistungsfähig,begabt,tüchtig,325,0,0,0
+storey,Etage,Stockwerk,Geschoss,327,0,0,0
+threat,Bedrohung,Gefahr,Gefährdung,Drohung,327,0,0,0
+to discard,verwerfen,ausrangieren,ausmustern,wegwerfen,aussondern,332,0,0,0
+to purpose,beabsichtigen,bezwecken,vorhaben,332,1,1,0
+villain,Bösewicht,Schurke,Schuft,Verbrecher,Spitzbube,335,0,0,0
+to facilitate,erleichtern,ermöglichen,fördern,unterstützen,begünstigen,340,0,0,0
+equation,Gleichung,Vergleich,Gleichgewicht,Ausgleich,342,0,0,0
+to propel,antreiben,vorwärtstreiben,treiben,342,0,0,0
+ease,Erleichterung,Bequemlichkeit,Leichtigkeit,Behaglichkeit,342,0,0,0
+wary,achtsam,argwöhnisch,auf der Hut,skeptisch,umsichtig,wachsam,vorsichtig,342,0,0,0
+exceeding,überaus,übersteigend,außergewöhnlich,überschreitend,außerordentlich,342,0,0,0
+intent,Absicht,Vorsatz,Zweck,Intention,342,0,0,0
+seamless,nahtlos,makellos,fugenlos,342,0,0,0
+unwieldy,unhandlich,schwerfällig,sperrig,342,0,0,0
+to issue,erstellen,herausgeben,publizieren,erteilen,erlassen,ausfertigen,342,0,0,0
+breach,Bruch,Fraktur,Verstoß,Vertragsbruch,Verletzung,342,0,0,0
+to concoct,aushecken,zusammenbrauen,ersinnen,fabrizieren,ausbrüten,354,0,0,0
+shebang,#! Zeichenfolge am Scriptanfang,Bude,355,0,0,0
+to clobber,verprügeln,überschreiben,358,1,0,1
+deficiency,Mangel,Defizit,Missstand,Schwäche,Unzulänglichkeit,358,0,0,0
+alas,leider,leider Gottes,Ach!,358,0,0,0
+misnomer,Fehlbezeichnung,Fehlbenennung,Unwort,Namensirrtum,358,0,0,0
+tad,Wicht,kleine Menge,Bisschen,etwas,364,0,0,0
+pun,Wortspiel,Wortwitz,Kalauer,364,0,0,0
+to pun,kalauern,mit Worten spielen,364,0,0,0
+to intend,beabsichtigen,vorhaben,meinen,364,0,0,0
+to preface,einleiten mit,mit einem Vorwort versehen,370,0,0,0
+preface,Vorwort,Einleitung,Vorbemerkung,Vorrede,376,0,0,0
+reference,Bezug,Empfehlung,Hinweis,Betreff,Referenz,Verweis,376,1,0,1
+instant,augenblicklich,sofortig,dringend,unmittelbar,tafelfertig,379,0,0,0
+composite,Gemisch,Zusammensetzung,Verbundwerkstoff,379,0,0,0
+Yikes!,Huch!,Pfui!,Ach du schande!,Du lieber Himmel!,384,0,0,0
+crotchet,Viertelnote,Viertel,Obsession,Haken,Häkchen,384,1,1,0
+bar line,Taktstrich,384,0,0,0
+measure,Maß,Maßnahme,Takt,Maßstab,Versmaß,Metrum,384,0,0,0
+score,Spielstand,Auswertung,Punktzahl,Partitur,Bewertung,384,0,0,0
+time signature,Taktangabe,Taktvorzeichnung,Angabe der Taktart,Metrum,Zeitstempel,384,0,0,0
+bar,Taktstrich,Balken,Bar,Theke,Riegel,Stange,384,0,0,0
+minim,halbe Note,384,0,0,0
+presumably,voraussichtlich,vermutlich,wahrscheinlich,mutmaßlich,392,0,0,0
+pinky,rosafarben,kleiner Finger,392,0,0,0
+at all costs,tunlichst,koste es was es wolle,um jeden Preis,unbedingt,397,0,0,0
+to grant,gestatten,bewilligen,gewähren,erteilen,einräumen,397,0,0,0
+invaluable,unschätzbar,unbezahlbar,397,0,0,0
+to truncate,kürzen,abschneiden,stutzen,beenden,verkürzen,397,0,0,0
+to supply,beliefern,anbieten,liefern,bereitstellen,versorgen,beschaffen,397,0,0,0
+to weed out,ausmerzen,ausjäten,aussortieren,404,0,0,0
+pane,Fensterscheibe,Glasscheibe,Scheibe,Kante,Facette,Bereich,Fenster,404,0,0,0
+to thrash,prügeln,dreschen,verprügeln,verdreschen,flattern,zappeln,404,0,0,0
+in good stead,zugute,zustatten,404,0,0,0
+stead,Stelle,Statt,404,0,0,0
+fund,Kapital,Fonds,Geldmittel,404,0,0,0
+to be ill at ease,sich unbehaglich fühlen,sich unbequem fühlen,sich unwohl fühlen,410,1,0,1
+to commit,begehen,verüben,anvertrauen,übergeben,überweisen,einchecken,410,0,0,0
+proficient,sachkundig,kompetent,erfahren,geschickt,bewandert,410,0,0,0
+hassle,Mühe,Ärger,Schererei,Aufwand,Auseinandersetzung,417,0,0,0
+to detract from,beeinträchtigen,schmälern,417,0,0,0
+precaution,Vorsichtsmaßnahme,Vorkehrung,Vorsorge,Vorsicht,417,0,0,0
+dietary,Diätvorschrift,422,0,0,0
+inoculation,Impfung,Schutzimpfung,422,0,0,0
+to obviate,vorbeugen,zuvorkommen,unnötig machen,ein Risiko vermeiden,426,0,0,0
+to allocate,zuteilen,zuordnen,zuweisen,aufteilen,bereitstellen,426,0,0,0
+to deallocate,freigeben,Zuteilung aufheben,426,0,0,0
+blob,Klecks,Tropfen,Klümpchen,Kügelchen,426,0,0,0
+cabbage,Kohl,Kraut,Kohlkopf,431,0,0,0
+to cabbage,stehlen,herumhängen,431,0,0,0
+to pimp,aufmotzen,kuppeln,431,0,0,0
+pimp,Zuhälter,Kuppler,Lude,Spitzel,431,0,0,0
+to collate,zuordnen,zusammentragen,vergleichen,431,0,0,0
+utmost,äußerste,allergrößte,höchste,439,0,0,0
+to emphasize,betonen,hervorheben,unterstreichen,herausstellen,439,0,0,0
+slash,Schrägstrich,Reduzierung,Schlitz,Schnitt,439,0,0,0
+ambiguous,mehrdeutig,verschwommen,zweideutig,unklar,mehrdeutig,missverständlich,443,0,0,0
+to crop,abschneiden,ernten,stutzen,scheren,weiden,443,1,0,1
+fuss,Aufheben,Aufsehen,Wirbel,Getue,Theater,Rummel,443,0,0,0
+to ascertain,feststellen,ermitteln,sicherstellen,nachprüfen,bestimmen,herausfinden,443,1,0,1
+successor,Nachfolger,Erbe,Nachrücker,Nachfolgemodell,443,0,0,0
+ploy,Trick,List,Masche,451,0,0,0
+savvy,clever,klug,schlau,gerissen,451,0,0,0
+fancy,modisch,schick,ausgefallen,raffiniert,schrill,453,0,0,0
+general purpose,Mehrzweck-,allgemein,Allzweck-,Universal-,allgemeingültig,453,0,0,0
+to reason,begründen,argumentieren,schlussfolgern,überlegen,erörtern,453,0,0,0
+to pursue,nachgehen,verfolgen,fortfahren,folgen,fortsetzen,453,0,0,0
+proverbial,sprichwörtlich,berühmt,453,1,1,0
+mansion,Villa,Herrenhaus,Schloss,Haus,Palais,herrschaftlicher Wohnsitz,458,0,0,0
+to defeat,besiegen,niederschlagen,überwältigen,vernichten,schlagen,459,1,0,1
+to pillage,plündern,ausplündern,brandschatzen,459,0,0,0
+pillage,Plünderung,Beute,Brandschatzung,459,0,0,0
+rashly,hastig,voreilig,leichtsinnig,unbedacht,unüberlegt,467,0,0,0
+sneakiness,Heimlichtuerei,467,0,0,0
+reckless,rücksichtslos,leichtsinnig,waghalsig,draufgängerisch,unbekümmert,unverantwortlich,verwegen,unbesonnen,leichtfertig,gewagt,sorglos,467,0,0,0
+virtue,Tugend,Wirkung,Eigenschaft,Wert,Vorteil,Kraft,467,0,0,0
+wacky,bekloppt,blöd,verrückt,schrullig,exzentrisch,467,1,0,1
+cask,Fass,Tonne,476,0,0,0
+pitcher,Krug,Werfer,Kanne,478,0,0,0
+paradigm,Musterbeispiel,Beispiel,Paradigma,Muster,Weltanschauung,Bezugssystem,478,0,0,0
+gist,Wesentliches,Hauptinhalt,Kern,Kernaussage,Hauptpunkt,Inhaltskern,478,0,0,0
+jeopardize,gefährden,in Gefahr bringen,aufs Spiel setzen,478,0,0,0
+stale,abgestanden,schal,fad,alt,abgelaufen,ausgelutscht,verdorben,altbacken,478,0,0,0
+mime,Pantomime,Mimik,486,0,0,0
+swell,prima,dufte,bombig,großartig,famos,knorke,pfundig,486,0,0,0
+to disguise,verbergen,tarnen,verschleiern,verkleiden,maskieren,verstellen,490,0,0,0
+to chomp,mampfen,kauen,mit den Hufen scharren,492,0,0,0
+to pity,bemitleiden,Mitleid haben,492,0,0,0
+pity,Mitleid,Erbarmen,492,0,0,0
+accessor,Zugriffsberechtigter,Akzessor,Zugriffsfunktion,Zugriffsmethode,500,0,0,0
+curd,Quark,Weißkäse,Bruch,505,0,0,0
+whey,Molke,Käsewasser,505,0,0,0
+fortuitous,zufällig,508,0,0,0
+civil,bürgerlich,zivil,höflich,zivilisiert,anständig,508,0,0,0
+weapons-grade,waffenfähig,508,1,1,0
+to jive,swingen,508,0,0,0
+jive,Swing,Marihuana,508,0,0,0
+staggering,atemberaubend,erstaunlich,überwältigend,gigantisch,umwerfend,508,0,0,0
+to stagger,schwanken,taumeln,torkeln,wanken,508,0,0,0
+five-course dinner,Fünf-Gänge-Menü,Fünfgängemenü,516,0,0,0
+to juggle,jonglieren,gaukeln,betrügen,516,0,0,0
+cricket,Kricket,Grille,Zirpe,Heimchen,Schemel,516,0,0,0
+to pawn,verpfänden,versetzen,516,0,0,0
+to strum,schrummeln,anschlagen,klimpern,516,0,0,0
+plantain,Kochbanane,Wegerich,Breitwegerich,524,0,0,0
+stem,Stamm,Stiel,Stengel,Hauptzweig,Notenhals,526,0,0,0
+tile,Platte,Ziegel,Spielstein,531,0,0,0
+to coerce,zwingen,nötigen,536,0,0,0
+ado,Aufhebens,Getue,Mühe,Umstände,536,0,0,0
+to behold,erblicken,anschauen,ansehen,betrachten,536,0,0,0
+rite of passage,Erwachsenwerden,Initiationsritus,Übergangsritual,540,0,0,0
+uncanny,unheimlich,verblüffend,540,0,0,0
+serendipity,Entdeckung,Zufallsfund,Glücksfall,545,0,0,0
+superficial,oberflächlich,trivial,vordergründig,545,0,0,0
+to mutter,murmeln,nuscheln,brummen,brummeln,murren,549,1,1,0
+to yearn,sich sehnen,549,0,0,0
+to funnel,einfüllen,eintrichtern,strömen,drängen,fließen,549,0,0,0
+to screw up,fertigmachen,vergurken,versemmeln,zerknüllen,verkorksen,vergeigen,versauen,549,0,0,0
+backhoe,Bagger,549,0,0,0
+snazzy,schick,flott,pfiffig,549,0,0,0
+bold,frech,kühn,dreist,mutig,fett,deutlich,549,0,0,0
+darned,verdammt,verflixt,ausgebessert,geflickt,549,0,0,0
+batch,Stapel,Ladung,Bündel,Charge,Satz,549,1,0,1
+rabid,tollwütig,fanatisch,wütend,rabiat,562,0,0,0
+to jumble,durcheinanderbringen,durcheinanderwerfen,562,1,0,1
+to bolster,unterstützen,stärken,polstern,helfen,auspolstern,566,0,0,0
+résumé,Lebenslauf,Fazit,Vita,Zusammenfassung,566,0,0,0
+ignition,Zündung,Entzündung,Anzünden,570,0,0,0
+to hyphenate,trennen,durchkoppeln,mit Bindestrich schreiben,mit Bindestrich abteilen,580,0,0,0
+perceptive,scharfsinnig,wahrnehmend,einfühlsam,scharfsichtig,580,0,0,0
+twist,Drehung,Verdrehung,Wendung,Verschrobenheit,Wendung,580,0,0,0
+subconscious,unterbewusst,Unterbewusstsein,580,0,0,0
+to attend,besuchen,beiwohnen,beachten,pflegen,warten,behandeln,585,0,0,0
+deployment,Bereitstellung von Software,Aufstellung,Entwicklung,Einsatz,585,0,0,0
+teller,Kassierer,Bankkassierer,Erzähler,Kassenbeamter,Stimmenzähler,588,1,1,0
+accountant,Buchhalter,Steuerberater,Kontenführer,588,0,0,0
+closure,Schließung,Abschluss,Auflösung,Schluss,Geschäftsaufgabe,588,0,0,0
+seizure,Anfall,Krampfanfall,Festnahme,Beschlagnahme,594,0,0,0
+vicinity,Nähe,Nachbarschaft,Umgebung,594,0,0,0
+hitherto,bisher,bislang,594,0,0,0
+to congeal,erstarren,gerinnen,gefrieren,594,0,0,0
+edifice,Gebäude,Gefüge,594,0,0,0
+hideous,abscheulich,grässlich,hässlich,scheußlich,594,0,0,0
+dyspeptic,missgestimmt,magenkrank,594,0,0,0
+vile,abscheulich,ekelhaft,niederträchtig,gemein,widerlich,594,0,0,0
+bribery,Bestechung,Bestechlichkeit,594,0,0,0
+rectitude,Rechtschaffenheit,Geradheit,594,0,0,0
+to gloss over,vertuschen,bemänteln,überspielen,verbrämen,beschönigen,retuschieren,594,0,0,0
+to be at stake,auf dem Spiel stehen,594,0,0,0
+stake,Anteil,Beteiligung,Pfahl,Einsatz,594,1,1,0
+to rumble,rumpeln,poltern,grollen,594,0,0,0
+detachment,Abstand,Ablösung,Trennung,Distanziertheit,609,0,0,0
+knack,Geschick,Gabe,Fertigkeit,Dreh,Talent,Kniff,Trick,Kunst,609,0,0,0
+reluctantly,widerwillig,ungern,widerstrebend,unwillig,609,0,0,0
+to dismiss,ablehnen,kündigen,aufgeben,ausblenden,abweisen,609,0,0,0
+to swear,fluchen,schimpfen,schwören,pöbeln,609,0,0,0
+to blaze,lodern,brennen,funkeln,leuchten,kiffen,609,1,0,1
+to leap,springen,hüpfen,hervorspringen,überspringen,bespringen,609,0,0,0
+stairwell,Treppenhaus,609,0,0,0
+to embark,einsteigen,einbooten,sich einschiffen,609,0,0,0
+to decease,sterben,hinscheiden,verscheiden,ableben,609,0,0,0
+tartly,sauer,herb,mit scharfer Zunge,609,0,0,0
+lawn,Rasen,Rasenfläche,Rasenplatz,Liegewiese,Grasplatz,Lichtung,609,0,0,0
+scalded,verbrüht,609,0,0,0
+lump,Klumpen,609,0,0,0
+pinprick,Nadelstich,Kleinigkeit,609,0,0,0
+to fling,schleudern,werfen,schmeissen,feuern,609,1,0,1
+marble,Marmor,609,0,0,0
+to gibber,brabbeln,quatschen,609,0,0,0
+to jam,blockieren,klemmen,stauen,stören,verstopfen,lahmlegen,609,0,0,0
+sleeve,Ärmel,Hülle,Hülse,Muffe,Manschette,609,0,0,0
+to slump,fallen,zusammensacken,absinken,abnehmen,609,0,0,0
+tingling,Kribbeln,Prickeln,609,0,0,0
+to jeer,spotten,verhöhnen,verspotten,johlen,609,0,0,0
+peculiar,seltsam,merkwürdig,eigenartig,609,0,0,0
+riveted,genietet,vernietet,aufgenietet,609,0,0,0
+scruff,Genick,Nacken,609,1,0,1
+aboard,anwesend,an Bord,636,0,0,0
+to grapple,ringen,anpacken,raufen,636,0,0,0
+afoot,im Gange,in Bearbeitung,in Bewegung,in Vorbereitung,zu Fuß,636,0,0,0
+to postpone,verschieben,hinausschieben,verlegen,vertagen,zurückstellen,636,0,0,0
+prompting,Drängen,Antrieb,Soufflieren,Soufflage,Bedienerführung,636,0,0,0
+to rip,reißen,aufreißen,zerreißen,anreißen,636,0,0,0
+contraceptive,Verhütungsmittel,Empfängnisverhütungsmittel,636,1,0,1
+slumped,zusammengesackt,636,0,0,0
+to hunch,krümmen,sich krümmen,636,1,0,1
+to blot,beflecken,löschen,beklecksen,klecksen,636,0,0,0
+to jolt,aufrütteln,rütteln,erschüttern,durchrütteln,holpern,636,0,0,0
+propensity,Neigung,Hang,Tendenz,636,0,0,0
+gaunt,ausgemergelt,mager,hager,karg,636,0,0,0
+spray,Spray,Gischt,Sprühnebel,Strauß,636,0,0,0
+wispy,dünn,fein,zart,zerbrechlich,636,0,0,0
+to squint,blinzeln,schielen,spähen,636,0,0,0
+awkward,ungeschickt,peinlich,heikel,unbehaglich,gefährlich,plump,ungünstig,misslich,hilflos,636,0,0,0
+wreath,Kranz,Gebinde,Blumengewinde,636,0,0,0
+to awe,einschüchtern,Ehrfurcht einflößen,Furcht einflößen,636,0,0,0
+awed,eingeschüchtert,ehrfurchtsvoll,636,0,0,0
+to fidget,zappeln,herunzappeln,hampeln,636,0,0,0
+despondency,Mutlosigkeit,Niedergeschlagenheit,Verzweiflung,Verzagtheit,636,0,0,0
+contempt,Verachtung,Missachtung,Geringschätzigkeit,636,0,0,0
+stern,ernst,streng,hart,636,0,0,0
+to quiver,zittern,beben,schaudern,636,0,0,0
+weasel,Wiesel,Betrüger,Judas,636,0,0,0
+bun,Brötchen,Milchbrötchen,Dutt,Haarknoten,636,0,0,0
+to swan,majestätisch schweben,schwören,herumgondeln,636,0,0,0
+contemptuous,herablassend,verachtend,verächtlich,despektierlich,636,1,0,1
+restive,widerspenstig,unruhig,bockig,störrisch,636,0,0,0
+recess,Unterbrechung,Pause,Vertiefung,Einschnitt,Aussparung,636,0,0,0
+to teeter,taumeln,schwanken,wanken,wippen,636,0,0,0
+conceit,Einbildung,Arroganz,Dünkel,636,0,0,0
+to clutter,verwirren,durcheinanderlaufen,überhäufen,anhäufen,636,0,0,0
+mischievous,boshaft,verschmitzt,schelmisch,bösartig,schadenfroh,spitzbübisch,636,0,0,0
+homily,Moralpredigt,Predigt,Sermon,636,0,0,0
+to resent,übelnehmen,verübeln,grollen,636,1,0,1
+oblivious,vergesslich,nichtsahnend,636,0,0,0
+scrape,Kratzer,Schramme,Schürfwunde,Meinungsverschiedenheit,636,0,0,0
+to rasp,abrauen,feilen,kratzen,raspeln,reiben,schaben,636,0,0,0
+apparition,Geist,Erscheinung,Gespenst,Geisterscheinung,636,1,1,0
+cipher,Chiffre,Zahl,Geheimcode,Codierschlüssel,Ziffer,636,0,0,0
+to glower,finster blicken,finster ansehen,679,0,0,0
+restraint,Zurückhaltung,Beschränkung,Hemmung,679,0,0,0
+to approve,akzeptieren,anerkennen,befürworten,bestätigen,679,0,0,0
+to wag,wedeln,schwänzeln,679,0,0,0
+to slouch,krumm dasitzen,sich lümmeln,sich lässig hinstellen,in buckliger Haltung dastehen,679,0,0,0
+to billow,bauschen,wogen,quellen,wabern,679,1,0,1
+to jack up,anheben,winden,hochwinden,hochbocken,679,0,0,0
+blankly,leer,ausdruckslos,verblüfft,verdutzt,verständnislos,679,0,0,0
+utterly,absolut,gänzlich,völlig,vollkommen,äußerst,restlos,total,zutiefst,679,0,0,0
+to sway,beeinflussen,schwanken,schwingen,überreden,schaukeln,schwenken,umstimmen,679,0,0,0
+bone china,feines Porzellan,Knochenporzellan,679,0,0,0
+excruciating,qualvoll,unerträglich,entsetzlich,fürchterlich,schmerzhaft,quälend,679,0,0,0
+pomegranate,Granatapfel,679,0,0,0
+pip,Kern,Auge,679,0,0,0
+diurnal,täglich,tagaktiv,tageszyklisch,679,1,1,0
+speck,Fleck,Fleckchen,679,0,0,0
+hazy,vage,unklar,benebelt,verschwommen,diesig,dunstig,679,0,0,0
+pad,Block,Polster,Unterlage,Bude,Notizblock,Matte,Kissen,679,0,0,0
+story,Geschichte,Erzählung,Stockwerk,Stock,Geschoss,679,0,0,0
+to supplant,verdrängen,ersetzen,an Stelle treten,679,0,0,0
+lawsuit,Prozess,Gerichtsverfahren,Klage,679,1,1,0
+apocryphal,zweifelhaft,unecht,679,0,0,0
+omission,Auslassung,Versäumnis,Unterlassung,679,1,1,0
+pedestrian,umständlich,langweilig,nüchtern,schwunglos,prosaisch,679,0,0,0
+leafy,belaubt,grün,Blatt-,laubig,679,0,0,0
+disheveled,zerzaust,unordentlich,ungepflegt,derangiert,strubbelig,679,0,0,0
+to preordain,vorherbestimmen,679,0,0,0
+grubby,schmuddelig,dreckig,schmutzig,schmuddlig,zwielichtig,schmierig,679,0,0,0
+upholstery,Polsterung,Polster,Polstermöbel,679,0,0,0
+petulant,launisch,bockig,zickig,launenhaft,gereizt,679,1,0,1
+ludicrous,lächerlich,grotesk,aberwitzig,albern,skurril,haarsträubend,lachhaft,679,0,0,0
+to sue,klagen,prozessieren,679,0,0,0
+oath,Eid,Schwur,679,0,0,0
+to concur,beipflichten,übereinstimmen,kooperieren,zustimmen,mitwirken,zusammenfallen,679,0,0,0
+duly,ordnungsgemäß,ordentlich,formgerecht,auftragsgemäß,679,0,0,0
+to confiscate,beschlagnahmen,konfiszieren,679,0,0,0
+to stride,schreiten,durchschreiten,überschreiten,ausschreiten,679,0,0,0
+to flounce,zappeln,stolzieren,sich herumwerfen,679,0,0,0
+menial,niedrig,untergeordnet,knechtisch,679,1,0,1
+synopsis,Zusammenfassung,Kurzfassung,Übersicht,Umriss,Gesamtschau,Zusammenschau,725,0,0,0
+to chink,klirren,klimpern,728,0,0,0
+shady,zwielichtig,dubios,schattig,fragwürdig,anrüchig,zweifelhaft,finster,halbseiden,730,0,0,0
+inevitably,zwangsläufig,unweigerlich,unvermeidlich,unausweichlich,notwendigerweise,736,0,0,0
+dismaying,erschreckend,736,0,0,0
+intermediate,dazwischenliegend,zwischenliegend,736,0,0,0
+convention,Abkommen,Versammlung,Übereinkunft,Tagung,736,0,0,0
+to inhibit,hemmen,verhindern,blockieren,hindern,bremsen,verbieten,sperren,736,0,0,0
+erroneous,irrtümlich,fehlerhaft,abwegig,falsch,736,0,0,0
+to suspend,aussetzen,unterbrechen,aufhängen,aufhalten,sperren,aufheben,aufschieben,748,0,0,0
+dire,fatal,schrecklich,schlimm,furchtbar,grässlich,düster,749,0,0,0
+mutual,gegenseitig,gemeinsam,beiderseitig,einvernehmlich,wechselseitig,749,0,0,0
+limelight,Rampenlicht,755,0,0,0
+clutch,Kupplung,Vogelgehege,Griff,Kralle,Haufen,Schar,Umklammerung,Fang,Gehege,762,0,0,0
+intestine,Darm,762,0,0,0
+to skid,rutschen,schleudern,ausrutschen,schlittern,ausgleiten,ins Schleudern geraten,zur Seite wegrutschen,762,0,0,0
+vicious,böse,bösartig,grausam,brutal,boshaft,gemein,übel,767,0,0,0
+to chop up,kleinmachen,schnippeln,zerhacken,zerkleinern,zerstückeln,770,0,0,0
+haphazard,willkürlich,planlos,zufällig,beliebig,770,0,0,0
+to cram,stopfen,büffeln,pauken,vollstopfen,770,1,0,1
+gauze,Gaze,Verbandsmull,770,0,0,0
+drawer,Schublade,Schubfach,770,0,0,0
+crowbar,Brechstange,Brecheisen,770,0,0,0
+to predate,zurückdatieren,Jagd machen,770,0,0,0
+sound,gesund,vernünftig,solide,fehlerfrei,tadellos,kräftig,780,0,0,0
+utility,Nutzen,Nützlichkeit,Dienstprogramm,Versorger,Brauchbarkeit,Verwendbarkeit,784,0,0,0
+pivot,Drehpunkt,Achse,Angelpunkt,Schlüsselfigur,Drehgelenk,Zapfen,789,0,0,0
+ditty,Liedchen,792,0,0,0
+to affiliate,anschließen,angliedern,verbinden,aufnehmen,beitreten,792,0,0,0
+to appease,beruhigen,beschwichtigen,abwiegeln,mildern,besänftigen,792,0,0,0
+hyphen,Bindestrich,Trennstrich,Silbentrennungszeichen,792,0,0,0
+lettuce,Kopfsalat,Salat,Lattich,Moneten,792,0,0,0
+queue,Warteschlange,Schlange,Reihe,Warteschleife,Zopf,Queue,799,0,0,0
+to queue,Schlange stehen,eine Warteschlange bilden,805,0,0,0
+to prepend,voranstellen,vorneanstellen,805,0,0,0
+to enrol,anmelden,einschreiben,eintragen,immatrikulieren,808,0,0,0
+akin,ähnlich,verwandt,blutsverwandt,anverwandt,808,0,0,0
+predecessor,Vorgänger,Vorläufer,808,0,0,0
+to elude,ausweichen,umgehen,entschlüpfen,sich entziehen,entkommen,entwischen,808,0,0,0
+spatial,räumlich,808,0,0,0
+solidus,Schrägstrich,808,0,0,0
+versant,vertraut,808,0,0,0
+upsurge,Aufschwung,Aufwallung,Welle,808,0,0,0
+proselytizing,bekehrend,missionierend,Missionierung,808,0,0,0
+to bode well,Gutes ankündigen,Gutes verheißen,ein gutes Zeichen sein,808,0,0,0
+to churn out,abliefern,am Fließband herstellen,am laufenden Band produzieren,808,0,0,0
+schema,Schema,Datenbankschema,808,0,0,0
+to attain,erreichen,erzielen,erlangen,erhalten,erbeuten,erwerben,808,0,0,0
+to abound,reichlich vorhanden sein,im Überfluss vorhanden sein,in Hülle und Fülle vorhanden sein,sehr zahlreich sein,808,0,0,0
+to hog,raffen,in Beschlag nehmen,rüchsichtslos an sich reißen,808,0,0,0
+to go haywire,kaputtgehen,verrückt spielen,verrücktspielen,überschnappen,808,0,0,0
+haywire,durchgedreht,übergeschnappt,kaputt,völlig durcheinander,808,0,0,0
+fettered,gefesselt,808,0,0,0
+to shun,meiden,scheuen,ausweichen,vermeiden,aus dem Weg gehen,808,0,0,0
+salient,auffällig,herausstehend,hervorstechend,hervorragend,auffallend,hervorspringend,808,0,0,0
+to taint,verderben,beflecken,anstecken,besudeln,808,0,0,0
+taint,Fleck,Makel,Stich,Damm,Ansteckung,808,0,0,0
+cup,Tasse,831,0,0,0
+plucky,tapfer,mutig,beherzt,833,0,0,0
+ardent,leidenschaftlich,gühend,begeistert,feurig,inbrünstig,833,0,0,0
+to revere,verehren,ehren,huldigen,833,0,0,0
+viable,machbar,durchführbar,brauchbar,realisierbar,rentabel,833,0,0,0
+nascent,aufkommend,entstehend,aufkeimend,einsetzend,werdend,833,0,0,0
+taxonomy,Klassifizierungslehre,Taxonomie,833,0,0,0
+swathe,Schneise,Schwade,breiter Streifen,gemähte Bahn,833,0,0,0
+rationale,Begründung,Erkenntnis,Grundprinzip,Gründe,Grundgedanke,833,0,0,0
+foreboding,ahnend,Unheil verkündend,Vorahnung,Ahnung,833,0,0,0
+bolt,Schraube,Bolzen,Blitz,Riegel,Pfeil,Ballen,Donnerkeil,845,0,0,0
+to wrest,entreißen,erzwingen,reißen,verdrehen,849,0,0,0
+goofy,albern,doof,vertrottelt,trottelig,849,0,0,0
+to comprise,beinhalten,umfassen,einschließen,enthalten,einbeziehen,849,0,0,0
+benchmark,Maßstab,Orientierungswert,Richtwert,Bezugsgröße,Bewertung,Vergleichsgröße,849,0,0,0
+to decipher,entschlüsseln,entziffern,dechiffrieren,857,0,0,0
+constituent,einzeln,Bestand-,verfassungsgebend,konstituierend,konstitutiv,857,0,0,0
+forge,Schmiede,Esse,857,0,0,0
+to forge,formen,schmieden,fälschen ,aufbauen,erfinden,857,0,0,0
+ cloth,Lappen,Tuch,Stoff,Leinen,Tischtuch,857,0,0,0
+to intermingle,vermischen,durchsetzen,sich vermischen,866,0,0,0
+to rummage,durchstöbern,durchsuchen,durchwühlen,866,0,0,0
+snafu,chaotisch,Chaos,Patzer,869,0,0,0
+to cease,enden,einstellen,nachlassen,aufhören,aussterben,aufgeben,ruhen,unterbleiben,869,0,0,0
+to flush,erröten,hinunterspülen,spülen,durchspülen,abspritzen,abziehen,bewässern,873,0,0,0
+flush,bündig,zuversichtlich,eben,flach,reichlich,873,0,0,0
+crude,grob,roh,geschmacklos,vulgär,primtiv,plump,873,0,0,0
+agnostic,skeptisch,agnostisch,agnostizistisch,Agnostiker,873,0,0,0
+limbo,Schwebezustand,Schwebe,Vorhölle,Gefangenschaft,Imaginärer Ort für verlorene und vernachlässigte Dinge,880,0,0,0
+mongrel,Mischling,Straßenköter,Bastard,880,0,0,0
+citation,Zitierung,Vorladung,Zitat,Fundstelle,Entgegenhaltung,884,0,0,0
+entity,Einheit,Wesen,Unternehmen,Organisation,Dasein,Gebilde,Instanz,884,0,0,0
+to groom,aufbauen,präparieren,heranziehen,890,0,0,0
+to jibe,spotten,sticheln,übereinstimmen,zusammenpassen,894,0,0,0
+shoddy,minderwertig,schäbig,lausig,schlampig,wertlos,lumpig,falsch,894,0,0,0
+locale,Schauplatz,Sprachumgebung,Örtlichkeit,Region,894,0,0,0
+remnant,Relikt,Überbleibsel,Überrest,Restbestand,Rest,894,0,0,0
+boon,Segen,Gnade,Gunst,Wohltat,Gabe,898,0,0,0
+chaperone,Anstandsdame,Aufsichtsperson,Betreuerin,Aufpasser,901,0,0,0
+to skew,verzerren,verdrehen,krümmen,umdrehen,901,0,0,0
+albeit,obgleich,obschon,allerdings,wenngleich,903,0,0,0
+assessment,Beurteilung,Bewertung,Einschätzung,Begutachtung,Feststellung,Einstufung,Abschätzung,903,0,0,0
+to reference,referenzieren,auf etw. verweisen,sich auf etw. beziehen,905,0,0,0
+hardy,abgehärtet,wiederstandsfähig,kühn,zäh,winterfest,robust,905,0,0,0
+to vet,untersuchen,durchleuchten,behandeln,überprüfen,905,0,0,0
+to enforce,vollstrecken,durchsetzen,erzwingen,durchführen,vollziehen,909,0,0,0
+inference,Schlussfolgerung,Folgerung,Rückschluss,Schluss,909,0,0,0
+clerical error,Schreibfehler,909,0,0,0
+to discern,erkennen,unterscheiden,wahrnehmen,feststellen,909,0,0,0
+rural,bäuerlich,dörflich,Land-,ländlich,909,0,0,0
+to excavate,ausgraben,ausbuddeln,baggern,ausschachten,909,0,0,0
+to reject,ablehnen,zurückweisen,abweisen,verwerfen,abstoßen,930,0,0,0
+achievement,Leistung,Erfolg,Errungenschaft,Erreichen,Ausführung,930,0,0,0
+to achieve,bewerkstelligen,erhalten,erringen,fertigbringen,leisten,realisieren,930,0,0,0
+despite,trotz,trotzdem,ungeachtet,obwohl,933,0,0,0
+survey,Umfrage,Studie,Gutachten,Untersuchung,Befragung,Erhebung,Meinungsumfrage,933,0,0,0
+to glean,sammeln,herausbekommen,zusammentragen,nachlesen,stoppeln,933,0,0,0
+bullet point,Spigelstrich,Aufzählungspunkt,Stichpunkt,933,0,0,0
+issue,Streitpunkt,Thema,Ausgabe,Aspekt,Sachverhalt,Angelegenheit,Problem,933,0,0,0
+to hamper,behindern,erschweren,hemmen,verhindern,hindern,938,0,0,0
+pristine,makellos,unberührt,unverdorben,ursprünglich,tadellos,früher,vormalig,938,0,0,0
+worthwhile,lohnenswert,erstrebenswert,lohnend,wertvoll,rentabel,938,0,0,0
+to botch,verpfuschen,vermasseln,sudeln,pfuschen,vermurksen,938,0,0,0
+confidence,Vertrauen,Zuversicht,Selbstvertrauen,Zutrauen,Glauben,943,0,0,0
+to commute,pendeln,umwandeln,ändern,umtauschen,vertauschen,947,0,0,0
+to equate,gleichstellen,ausgleichen,gleichen,947,0,0,0
+larceny,Diebstahl,947,0,0,0
+burglary,Einbruch,947,0,0,0
+to perceive,wahrnehmen,bemerken,erkennen,empfinden,947,0,0,0
+considerate,rücksichtsvoll,aufmerksam,umsichtig,fürsorglich,taktvoll,953,0,0,0
+negotiation,Verhandlung,Übertragung,Aushandlung,955,0,0,0
+to stress,betonen,beanspruchen,hervorheben,belasten,stressen,herausheben,955,0,0,0
+to appall,empören,entsetzen,erschrecken,955,0,0,0
+to merit,wert sein,würdig sein,verdienen,955,0,0,0
+to wield,ausüben,handhaben,schwingen,führen,955,0,0,0
+maze,Labyrinth,Irrgarten,Gewirr,Gestrüpp,964,0,0,0
+to converge,zusammenlaufen,zusammenströmen,sich angleichen,sich annähern,964,0,0,0
+vertex,Ecke,Eckpunkt,Scheitelpunkt,Scheitel,964,0,0,0
+concern,Sorge,Anliegen,Interesse,Besorgnis,Angelegenheit,964,0,0,0
+provided,vorausgesetzt,bereitgestellt,sofern,unterstützt,versorgt,angeboten,ausgestattet,geliefert,964,0,0,0
+to conflate,verschmelzen,verbinden,zusammenführen,zusammenfassen,vereinigen,964,0,0,0
+state,Beschaffenheit,Zustand,Staat,Status,Bundesland,Verfassung,964,0,0,0
+to mandate,anordnen,beauftragen,verfügen,bevollmächtigen,gebieten,964,0,0,0
+zealous,eifrig,begeistert,pflichteifrig,enthusiastisch,diensteifrig,strebsam,964,0,0,0
+trade-off,Abtausch,Abwägung,Ausgleich,Zielkonflikt,964,0,0,0
+accountability,Verantwortlichkeit,Haftung,Rechenschaft,Rechenschaftspflicht,964,0,0,0
+immediate,unmittelbar,Sofort-,umgegend,unverzüglich,sofortig,prompt,augenblicklich,975,0,0,0
+bystander,Zuschauer,Beobachter,Schaulustiger,976,0,0,0
+to pend,bevorstehen,ausstehen,976,0,0,0
+verbatim,wortwörtlich,wortgetreu,wörtlich,im Wortlaut,981,0,0,0
+presumption,Annahme,Vermutung,Einbildung,Mutmaßung,981,0,0,0
+to entangle,verwickeln,verschränken,verwirren,umschlingen,981,0,0,0
+to constrain,beschränken,einengen,zwingen,einschränken,erzwingen,985,0,0,0
+abroad,überallhin,draußen,außer Landes,weit umher,im Ausland,986,0,0,0
+ransom,Lösegeld,Erlösung,Freilassung,Freikauf,988,0,0,0
+thrust,Schub,Druck,Vorstoß,Schubkraft,Stoß,989,0,0,0
+to audit,prüfen,kontrollieren,auditieren,992,0,0,0
+preemptive,präventiv,bevorrechtigt,präemptiv,992,0,0,0
+rife with,voller,voll von,995,0,0,0
+dun,Mahnung,dunkel,graubraun,996,0,0,0
+deficiancy,Defizit,Mangel,Missstand,Schwäche,Unzulänglichkeit,996,0,0,0
+fiend,Feind,Unhold,Fanatiker,Satan,Unmensch,1000,0,0,0
+cutting-edge,innovativ,auf dem neuesten Stand,topaktuell,erstklassig,1000,0,0,0
+to bootstrap,laden,urladen,sich selbst helfen,1003,0,0,0
+bootstrap,Startprogramm,Stiefelriemen,Stiefelschlaufe,Urlader,1003,0,0,0
+to tile,kacheln,fliesen,1003,0,0,0
+offspring,Nachwuchs,Nachkomme,Sprössling,Ergebnis,Resultat,1008,0,0,0
+puppy,Welpe,Hundewelpe,Schnösel,Teil,1008,0,0,0
+seesaw,Schaukel,Wippe,Schaukelbrett,Wippschaukel,1010,0,0,0
+mammal,Säugetier,Säuger,1011,0,0,0
+gland,Drüse,Flansch,1011,0,0,0
+groundbreaking,bahnbrechend,wegweisend,innovativ,originell,1013,0,0,0
+arbiter,Vermittler,Schiedsrichter,Schlichter,Gebieter,1013,0,0,0
+currently,derzeitig,gegenwärtig,zurzeit,momentan,augenblicklich,gerade,1015,0,0,0
+entropy,Informationsdichte,1016,0,0,0
+hilarious,ausgelassen,lustig,urkomisch,heiter,komisch,saukomisch,1016,0,0,0
+irksome,ärgerlich,lästig,belastend,ermüdend,1016,0,0,0
+adverse,nachteilig,ungünstig,negativ,widrig,ablehnend,entgegenstehend,schädlich,1018,0,0,0
+concealment,Geheimhaltung,Geborgenheit,Tarnung,Versteck,Verheimlichung,1020,0,0,0
+strutter,Prahlhans,1021,0,0,0
+casualty,Opfer,1024,0,0,0
+subsidiary,nebensächlich,ergänzend,1024,0,0,0
+alleged,angeblich,mutmaßlich,vermeintlich,behauptet,1024,0,0,0
+to disclose,preisgeben,enthüllen,aufdecken,offenlegen,1024,0,0,0
+to convince,überzeugen,1024,0,0,0
+to resume,fortsetzen,fortfahren,wiederaufnehmen,zusammenfassen,wiedererlangen,1035,0,0,0
+sustainable,nachhaltig,zukunftsfähig,tragfähig,aufrechthaltbar,bestandhaltend,erneuerbar,1035,0,0,0
+to err,fehlgehen,sich irren,täuschen,1035,0,0,0
+vain,eitel,eingebildet,vergeblich,nutzlos,1035,0,0,0
+in vain,sinnlos,umsonst,vergebens,vergeblich,1039,0,0,0
+admonition,Ermahnung,Mahnung,Vorwurf,Belehrung,Tadel,1041,0,0,0
+scoop,Knüller,Schaufel,Kugel Eis,Exklusivbericht,Exklusivmeldung,1041,0,0,0
+to revise,überarbeiten,abändern,korrigieren,1046,0,0,0
+convenience,Annehmlichkeit,Bequemlichkeit,Komfort,Nutzen,Vorteil,Zweckmäßigkeit,1049,0,0,0
+to summarise,zusammenfassen,summieren,verdichten,1049,0,0,0
+to wreak havoc,Chaos und Verwüstung anrichten,schlimm hausen,verheerende Schäden anrichten,Chaos stiften,1055,0,0,0
+off the shelf,ab Lager,direkt vom Regal,gebrauchsfertig,handelsüblich,serienmäßig produziert,1057,0,0,0
+paramount,höchst,hervorragend,vorrangig,überragend,1057,0,0,0
