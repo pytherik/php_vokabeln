@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Raleway:wght@300;400;600;800&display=swap');
+
+:root {
+  --font: 'Raleway', Arial, Helvetica, sans-serif;
+  
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #444;
+  font-family: var(--font);
+  font-weight: 400;
+  color: #ddd;
+}
+
+.container {
+  font-size: 2rem;
+  width: 500px;
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+}
+
+.form-container {
+  margin: 0 auto;
+  width: 80%;
+  align-items: center;
+}
+
+.input-container {
+  align-items: center;
+  text-align: center;
+}
+
+input[type="text"] {
+  background-color: transparent;
+  font-size: 2rem;
+  border: none;
+  color: #ddd;
+  font-family: var(--font);
+  outline: none;
+  border-bottom: 2px solid #ddd;
+}
+
+button {
+  cursor: pointer;
+  background-color: #7296B9aa ;
+  font-family: var(--font);
+  font-size: 1.5rem;
+  padding: .5rem 1rem;
+  font-weight: bold;
+  border-radius: .5rem;
+}
+
+button:hover {
+  background-color: #7296B9;
+}
+
+.small-button {
+  width: 10rem;
+}
+
+.btn {
+  width: 15rem;
+  height: 3rem;
+  border-radius: 1rem;
+  background-color: #2796b7ff;
+}
+
+.errMsg {
+  color: #F94A29;
+}

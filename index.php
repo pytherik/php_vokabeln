@@ -1,71 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./public/css/style.css">
+  <title>Vokabelheft</title>
+</head>
+<body>
+  <div class="container">
+
 <?php
 
-$host = 'localhost';
-$user = 'root';
-$pass = '321null';
+include('./configDB.php');
 
-$conn = new mysqli($host, $user, $pass);
-$conn->query("DROP DATABASE IF EXISTS vokabeln");
-$conn->query("CREATE DATABASE vokabeln");
-$conn->query("USE vokabeln");
+$de_msg = '';
+$en_msg = '';
 
-$conn->query(
-  "CREATE TABLE english(
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    word VARCHAR(150) NOT NULL,
-    explanation TEXT(500))");
-
-$conn->query(
-  "CREATE TABLE german(
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    word VARCHAR(150) NOT NULL,
-    explanation TEXT(500))");
-
-$conn->query(
-  "CREATE TABLE eng_ger(
-    eng_id INT NOT NULL, 
-    ger_id INT NOT NULL, 
-    PRIMARY KEY(eng_id, ger_id))"); 
-
-
-$file_to_read = fopen('./voxnscore.csv', 'r');
-if($file_to_read !== FALSE){
-    
-    while(($data = fgetcsv($file_to_read, 100, ',')) !== FALSE){
-      $res = $conn->query("SELECT id FROM english WHERE word='$data[0]'");
-      if($row = $res->fetch_assoc()){
-        $eng_id = $row['id'];
-      } else {
-        $conn->query("INSERT INTO english (word) VALUES('$data[0]')");
-        $res = $conn->query("SELECT id FROM english WHERE word='$data[0]'");
-        $row = $res->fetch_assoc();
-        $eng_id = $row['id'];
-      }
-      var_dump($row);
-      echo "<h3>english: $data[0]<h3>";
-      for($i = 1; $i < count($data) -4; $i++) {
-        $res = $conn->query("SELECT id FROM german WHERE word='$data[$i]'");
-        if($row = $res->fetch_assoc()){
-          $ger_id = $row['id'];
-        } else {
-          $conn->query("INSERT INTO german (word) VALUES('$data[$i]')");
-          $res = $conn->query("SELECT id FROM german WHERE word='$data[$i]'");
-          $row = $res->fetch_assoc();
-          $ger_id = $row['id'];
-        }
-          $conn->query("INSERT INTO eng_ger VALUES('$eng_id', '$ger_id')");
-          echo "<h5>german$i: $data[$i]<h5>";
-        }
-    }
-    fclose($file_to_read);
+if (isset($_POST['de']) && isset($_POST['en'])) {
+  $de = $_POST['de'];
+  $conn->query("INSERT german (word) VALUES('$de')");
+  $de_id = $conn->insert_id;
+  $en = $_POST['en'];
+  $en = explode(',', $en);
+  for($i=0; $i < count($en); $i++) {
+    $conn->query("INSERT english (word) VALUES('$en[$i]')");
+    $en_id = $conn->insert_id;
+    $conn->query("INSERT eng_ger VALUES('$en_id', '$de_id')");
+  }
+  $conn->close();
+} else {
+  $de_msg = 'hier stimmt was nicht!';
 }
-// $csv = fopen('./voxnscore.csv', 'r');
-
-// while(! feof($csv)) {
-//   $line = fgets($csv);
-//   echo $line. "<br>";
-// }
-
-// fclose($csv);
 
 ?>
+
+    <div class="form-container">
+      <form method="POST">
+        <div class="input-container">
+          <label for="de">Deutsches Wort</label>
+          <input type="text" id="de" name="de">
+          <span class="errMsg"><?php echo $de_msg ?></span>
+        </div>
+        <div class="input-container">
+          <label for="en">Englisch</label>
+          <input type="text" id="en" name="en">
+          <span class="errMsg"><?php echo $en_msg ?></span>
+        </div>
+        <div class="input-container">
+        <button class="small-button" type="submit">eintragen</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+</body>
+</html>
+
