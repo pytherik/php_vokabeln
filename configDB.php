@@ -2,7 +2,7 @@
 
 $host = 'localhost';
 $user = 'root';
-$pass = '';
+$pass = '321null';
 
 $conn = new mysqli($host, $user, $pass);
 $conn->query("CREATE DATABASE IF NOT EXISTS vocab");

@@ -26,7 +26,8 @@ h2 {
 
 .header {
   text-align: center;
-  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  margin: 1rem;
 }
 
 .navbar {
@@ -48,6 +49,16 @@ h2 {
   align-items: center;
 }
 
+table {
+  margin-top: 3rem;
+  padding: 1% 5%;
+  border: 1px solid #aaa;
+}
+
+th {
+  text-align: left;
+}
+
 .form-container {
   margin: 0 auto;
   width: 80%;
@@ -67,7 +78,7 @@ input[type="text"] {
   color: #ddd;
   font-family: var(--font);
   outline: none;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid #aaa;
 }
 
 textarea {
