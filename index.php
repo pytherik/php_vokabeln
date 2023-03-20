@@ -23,6 +23,11 @@ if (isset($_POST['de']) && isset($_POST['en'])) {
   $de_id = $conn->insert_id;
   $en = $_POST['en'];
   $en = explode(',', $en);
+  if(isset($_POST['exDe'])){
+    $exp = $_POST['exDe'];
+  } else {
+    $exp = ''
+  }
   for($i=0; $i < count($en); $i++) {
     $conn->query("INSERT english (word) VALUES('$en[$i]')");
     $en_id = $conn->insert_id;
@@ -38,13 +43,18 @@ if (isset($_POST['de']) && isset($_POST['en'])) {
     <div class="form-container">
       <form method="POST">
         <div class="input-container">
-          <label for="de">Deutsches Wort</label>
-          <input type="text" id="de" name="de">
+          <label for="de">Begriff (en)</label>
+          <input type="text" id="de" name="de" autofill="off" required autofocus>
           <span class="errMsg"><?php echo $de_msg ?></span>
         </div>
         <div class="input-container">
-          <label for="en">Englisch</label>
-          <input type="text" id="en" name="en">
+          <label for="en">Übersetzungen (de)</label>
+          <input type="text" id="en" name="en" autofill="off" required>
+          <span class="errMsg"><?php echo $en_msg ?></span>
+        </div>
+        <div class="input-container">
+          <label for="ex">Erklärung</label>
+          <textarea  id="ex" name="ex" rows="5">Dieses Feld kann leer bleiben.</textarea>
           <span class="errMsg"><?php echo $en_msg ?></span>
         </div>
         <div class="input-container">
