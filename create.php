@@ -44,9 +44,9 @@ if (isset($_POST['de']) && isset($_POST['en'])) {
   }
 } else if (isset($_POST['back'])) {
   header('Location:./index.php');
-} else if (!isset($_POST['de'])) {
+} else if (!isset($_POST['de']) && isset($_POST['en'])) {
   $de_msg = 'Bitte gib min eine deutsche Übersetzung ein';
-} else if (!isset($_POST['en'])) {
+} else if (!isset($_POST['en']) && isset($_POST['de'])) {
   $en_msg = 'Bitte gib einen englischen Begriff ein';
 }
 

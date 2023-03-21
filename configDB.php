@@ -1,8 +1,6 @@
 <?php
 
-$host = 'localhost';
-$user = 'root';
-$pass = '321null';
+include('./accessData.php');
 
 $conn = new mysqli($host, $user, $pass);
 $conn->query("CREATE DATABASE IF NOT EXISTS vocab");
